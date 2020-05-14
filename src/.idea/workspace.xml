@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6d6d5899-6afd-4f39-b8e0-e33e9bfafa99" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/main/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/Rental.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/Rental.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/src/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/src/Customer.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="571">
-              <caret line="43" column="46" lean-forward="true" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+            <state relative-caret-position="391">
+              <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#163#164#0" expanded="true" />
@@ -33,6 +31,7 @@
                 <element signature="e#273#274#0" expanded="true" />
                 <element signature="e#304#305#0" expanded="true" />
                 <element signature="e#331#332#0" expanded="true" />
+                <element signature="e#1665#1666#0" expanded="true" />
                 <element signature="e#1708#1709#0" expanded="true" />
               </folding>
             </state>
@@ -271,6 +270,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
@@ -377,8 +377,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="43" column="46" lean-forward="true" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+        <state relative-caret-position="391">
+          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#163#164#0" expanded="true" />
@@ -387,6 +387,7 @@
             <element signature="e#273#274#0" expanded="true" />
             <element signature="e#304#305#0" expanded="true" />
             <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#1665#1666#0" expanded="true" />
             <element signature="e#1708#1709#0" expanded="true" />
           </folding>
         </state>
