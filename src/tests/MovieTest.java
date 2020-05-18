@@ -8,7 +8,7 @@ public class MovieTest {
 
     @BeforeAll
     public static void setUp() {
-        movie = new Movie("Movie Title", 0);
+        movie = new Movie("Iron Man", 0);
     }
 
     @Test
@@ -18,7 +18,7 @@ public class MovieTest {
 
     @Test
     public void getTitle() {
-        Assertions.assertEquals("Movie Title", movie.getTitle());
+        Assertions.assertEquals("Iron Man", movie.getTitle());
     }
 
 }
