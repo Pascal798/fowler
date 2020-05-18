@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d6d5899-6afd-4f39-b8e0-e33e9bfafa99" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/main/ChildrensPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/NewReleasePrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/Price.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/RegularPrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/Rental.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/Rental.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/src/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/src/Movie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/src/Rental.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/src/Rental.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,14 +62,66 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/Movie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+            <state relative-caret-position="282">
+              <caret line="31" column="6" lean-forward="true" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
               <folding>
                 <element signature="e#487#488#0" expanded="true" />
                 <element signature="e#515#516#0" expanded="true" />
+                <element signature="e#1093#1094#0" expanded="true" />
+                <element signature="e#1161#1162#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main/Price.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/NewReleasePrice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#57#58#0" expanded="true" />
+                <element signature="e#89#90#0" expanded="true" />
+                <element signature="e#131#132#0" expanded="true" />
+                <element signature="e#168#169#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/ChildrensPrice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#56#57#0" expanded="true" />
+                <element signature="e#86#87#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/RegularPrice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#54#55#0" expanded="true" />
+                <element signature="e#82#83#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -93,18 +148,12 @@
         <option value="$PROJECT_DIR$/tests/RentalTest.java" />
         <option value="$PROJECT_DIR$/tests/MovieTest.java" />
         <option value="$PROJECT_DIR$/main/Customer.java" />
-        <option value="$PROJECT_DIR$/main/Movie.java" />
         <option value="$PROJECT_DIR$/main/Rental.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/src.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/main/RegularPrice.java" />
+        <option value="$PROJECT_DIR$/main/ChildrensPrice.java" />
+        <option value="$PROJECT_DIR$/main/NewReleasePrice.java" />
+        <option value="$PROJECT_DIR$/main/Movie.java" />
+        <option value="$PROJECT_DIR$/main/Price.java" />
       </list>
     </option>
   </component>
@@ -249,18 +298,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_src - 2020.05.14 at 13h 34m 40s.xml">
-      <configuration name="All in src" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_src - 2020.05.14 at 13h 37m 54s.xml">
-      <configuration name="All in src" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_src - 2020.05.14 at 13h 40m 20s.xml">
-      <configuration name="All in src" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_src - 2020.05.14 at 13h 49m 06s.xml">
-      <configuration name="All in src" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_src - 2020.05.14 at 13h 57m 11s.xml">
       <configuration name="All in src" configurationId="JUnit" />
     </history-entry>
@@ -277,6 +314,18 @@
       <configuration name="All in src" configurationId="JUnit" />
     </history-entry>
     <history-entry file="All_in_src - 2020.05.18 at 08h 59m 16s.xml">
+      <configuration name="All in src" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_src - 2020.05.18 at 09h 03m 35s.xml">
+      <configuration name="All in src" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_src - 2020.05.18 at 09h 05m 46s.xml">
+      <configuration name="All in src" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_src - 2020.05.18 at 09h 09m 55s.xml">
+      <configuration name="All in src" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_src - 2020.05.18 at 09h 15m 17s.xml">
       <configuration name="All in src" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -394,6 +443,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main/ChildrensPrice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#56#57#0" expanded="true" />
+            <element signature="e#86#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/RegularPrice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#54#55#0" expanded="true" />
+            <element signature="e#82#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/NewReleasePrice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#57#58#0" expanded="true" />
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main/Rental.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -409,12 +493,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main/Movie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+        <state relative-caret-position="282">
+          <caret line="31" column="6" lean-forward="true" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
           <folding>
             <element signature="e#487#488#0" expanded="true" />
             <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#1093#1094#0" expanded="true" />
+            <element signature="e#1161#1162#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/Price.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
