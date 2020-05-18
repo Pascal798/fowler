@@ -19,4 +19,10 @@ class Rental {
         else
             return 1;
     }
+
+    double getCharge() {
+        return movie.getCharge(daysRented);
+    }
+
+
 }
